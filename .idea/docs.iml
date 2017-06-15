@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/pclzip/pclzip" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpexcel/phpexcel" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpoffice/common" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpoffice/phpword" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/zendframework/zend-escaper" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/zendframework/zend-stdlib" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/zendframework/zend-validator" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/composer" />
+          <root url="file://$MODULE_DIR$/vendor/pclzip/pclzip" />
+          <root url="file://$MODULE_DIR$/vendor/phpexcel/phpexcel" />
+          <root url="file://$MODULE_DIR$/vendor/phpoffice/common" />
+          <root url="file://$MODULE_DIR$/vendor/phpoffice/phpword" />
+          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-escaper" />
+          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-stdlib" />
+          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-validator" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/composer" />
+          <root url="file://$MODULE_DIR$/vendor/pclzip/pclzip" />
+          <root url="file://$MODULE_DIR$/vendor/phpexcel/phpexcel" />
+          <root url="file://$MODULE_DIR$/vendor/phpoffice/common" />
+          <root url="file://$MODULE_DIR$/vendor/phpoffice/phpword" />
+          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-escaper" />
+          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-stdlib" />
+          <root url="file://$MODULE_DIR$/vendor/zendframework/zend-validator" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
